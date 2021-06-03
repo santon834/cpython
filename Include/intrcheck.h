@@ -22,7 +22,7 @@ PyAPI_FUNC(int) _PyOS_IsMainThread(void);
 PyAPI_FUNC(void) _PySignal_AfterFork(void);
 
 #ifdef MS_WINDOWS
-/* windows.h is not included by Python.h so use void* instead of HANDLE */
+/* windows.h is not included by mython.h so use void* instead of HANDLE */
 PyAPI_FUNC(void*) _PyOS_SigintEvent(void);
 #endif
 #endif /* !Py_LIMITED_API */

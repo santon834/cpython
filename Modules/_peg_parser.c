@@ -1,4 +1,4 @@
-#include <Python.h>
+#include <mython.h>
 #include "pegen_interface.h"
 
 static int

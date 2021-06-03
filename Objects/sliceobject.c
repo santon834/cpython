@@ -13,7 +13,7 @@ the Py_NoneStruct in that there is no way to create other objects of
 this type and there is exactly one in existence.
 */
 
-#include "Python.h"
+#include "mython.h"
 #include "pycore_abstract.h"      // _PyIndex_Check()
 #include "pycore_object.h"
 #include "structmember.h"         // PyMemberDef

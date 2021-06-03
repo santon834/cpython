@@ -7,7 +7,7 @@
 */
 
 #define PY_SSIZE_T_CLEAN
-#include "Python.h"
+#include "mython.h"
 #include "pycore_interp.h"        // PyInterpreterState.fs_codec
 #include "pycore_object.h"
 #include "pycore_pystate.h"       // _PyInterpreterState_GET()

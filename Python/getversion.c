@@ -1,7 +1,7 @@
 
 /* Return the full version string. */
 
-#include "Python.h"
+#include "mython.h"
 
 #include "patchlevel.h"
 

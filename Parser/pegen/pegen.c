@@ -1,4 +1,4 @@
-#include <Python.h>
+#include <mython.h>
 #include <errcode.h>
 #include "../tokenizer.h"
 

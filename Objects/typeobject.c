@@ -1,6 +1,6 @@
 /* Type object implementation */
 
-#include "Python.h"
+#include "mython.h"
 #include "pycore_call.h"
 #include "pycore_initconfig.h"
 #include "pycore_object.h"

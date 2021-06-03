@@ -2,7 +2,7 @@
 /* Thread module */
 /* Interface to Sjoerd's portable C thread library */
 
-#include "Python.h"
+#include "mython.h"
 #include "pycore_pylifecycle.h"
 #include "pycore_interp.h"        // _PyInterpreterState.num_threads
 #include "pycore_pystate.h"       // _PyThreadState_Init()

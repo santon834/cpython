@@ -1,7 +1,7 @@
 
 /* Return the compiler identification, if possible. */
 
-#include "Python.h"
+#include "mython.h"
 
 #ifndef COMPILER
 

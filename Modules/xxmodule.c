@@ -14,7 +14,7 @@
 
 /* Xxo objects */
 
-#include "Python.h"
+#include "mython.h"
 
 static PyObject *ErrorObject;
 

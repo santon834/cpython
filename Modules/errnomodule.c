@@ -1,7 +1,7 @@
 
 /* Errno module */
 
-#include "Python.h"
+#include "mython.h"
 
 /* Windows socket errors (WSA*)  */
 #ifdef MS_WINDOWS

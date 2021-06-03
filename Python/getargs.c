@@ -1,7 +1,7 @@
 
 /* New getargs implementation */
 
-#include "Python.h"
+#include "mython.h"
 #include "pycore_tupleobject.h"
 
 #include <ctype.h>

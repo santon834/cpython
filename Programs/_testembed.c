@@ -5,10 +5,10 @@
 /* Always enable assertion (even in release mode) */
 #undef NDEBUG
 
-#include <Python.h>
+#include <mython.h>
 #include "pycore_initconfig.h"    // _PyConfig_InitCompatConfig()
 #include "pycore_runtime.h"       // _PyRuntime
-#include <Python.h>
+#include <mython.h>
 #include <inttypes.h>
 #include <stdio.h>
 #include <wchar.h>

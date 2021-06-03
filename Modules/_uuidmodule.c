@@ -5,7 +5,7 @@
 
 #define PY_SSIZE_T_CLEAN
 
-#include "Python.h"
+#include "mython.h"
 #ifdef HAVE_UUID_UUID_H
 #include <uuid/uuid.h>
 #elif defined(HAVE_UUID_H)

@@ -23,7 +23,7 @@
 /* Modified to support --help and --version, as well as /? on Windows
  * by Georg Brandl. */
 
-#include <Python.h>
+#include <mython.h>
 #include <stdio.h>
 #include <string.h>
 #include <wchar.h>

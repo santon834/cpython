@@ -40,7 +40,7 @@
 #ifndef _CONDVAR_IMPL_H_
 #define _CONDVAR_IMPL_H_
 
-#include "Python.h"
+#include "mython.h"
 #include "pycore_condvar.h"
 
 #ifdef _POSIX_THREADS

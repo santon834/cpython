@@ -10,7 +10,7 @@ static const char PyCursesVersion[] = "2.1";
 
 /* Includes */
 
-#include "Python.h"
+#include "mython.h"
 
 #include "py_curses.h"
 

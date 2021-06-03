@@ -1,6 +1,6 @@
 /* ABCMeta implementation */
 
-#include "Python.h"
+#include "mython.h"
 #include "clinic/_abc.c.h"
 
 /*[clinic input]

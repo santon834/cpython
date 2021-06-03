@@ -1,6 +1,6 @@
 /* Class object implementation (dead now except for methods) */
 
-#include "Python.h"
+#include "mython.h"
 #include "pycore_object.h"
 #include "pycore_pyerrors.h"
 #include "pycore_pystate.h"       // _PyThreadState_GET()

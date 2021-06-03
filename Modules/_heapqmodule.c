@@ -6,7 +6,7 @@ annotated by François Pinard, and converted to C by Raymond Hettinger.
 
 */
 
-#include "Python.h"
+#include "mython.h"
 
 #include "clinic/_heapqmodule.c.h"
 

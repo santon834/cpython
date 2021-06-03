@@ -1,6 +1,6 @@
 /* Time module */
 
-#include "Python.h"
+#include "mython.h"
 
 #include <ctype.h>
 

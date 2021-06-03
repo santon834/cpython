@@ -100,7 +100,7 @@ Local naming conventions:
 #endif
 
 #define PY_SSIZE_T_CLEAN
-#include "Python.h"
+#include "mython.h"
 #include "structmember.h"         // PyMemberDef
 
 #ifdef _Py_MEMORY_SANITIZER

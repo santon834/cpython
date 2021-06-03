@@ -52,7 +52,7 @@ raised for division by zero and mod by zero.
    returned.
  */
 
-#include "Python.h"
+#include "mython.h"
 #include "pycore_dtoa.h"
 #include "_math.h"
 

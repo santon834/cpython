@@ -8,7 +8,7 @@ extern "C" {
 #  error "this header requires Py_BUILD_CORE define"
 #endif
 
-#include "Python.h"
+#include "mython.h"
 #include "Python-ast.h"
 
 PyAPI_FUNC(mod_ty) PyPegen_ASTFromString(

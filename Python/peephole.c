@@ -1,6 +1,6 @@
 /* Peephole optimizations for bytecode compiler. */
 
-#include "Python.h"
+#include "mython.h"
 
 #include "Python-ast.h"
 #include "node.h"

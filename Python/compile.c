@@ -21,7 +21,7 @@
  * objects.
  */
 
-#include "Python.h"
+#include "mython.h"
 
 #include "Python-ast.h"
 #include "ast.h"

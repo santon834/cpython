@@ -111,7 +111,8 @@ Tools/unicode/data/
 /python-config.py
 /python.bat
 /python-gdb.py
-/python.exe-gdb.py
+/mython.exe-gdb.py
+/mython.exe
 /reflog.txt
 /coverage/
 /externals/
@@ -124,3 +125,4 @@ Tools/ssl/win32
 # Ignore ./python binary on Unix but still look into ./Python/ directory.
 /python
 !/Python/
+/cmake-build-debug/

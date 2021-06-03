@@ -1,6 +1,6 @@
 /* Range object implementation */
 
-#include "Python.h"
+#include "mython.h"
 #include "pycore_abstract.h"   // _PyIndex_Check()
 #include "pycore_tupleobject.h"
 #include "structmember.h"         // PyMemberDef

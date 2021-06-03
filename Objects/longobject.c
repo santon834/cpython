@@ -2,7 +2,7 @@
 
 /* XXX The functional organization of this file is terrible */
 
-#include "Python.h"
+#include "mython.h"
 #include "pycore_interp.h"    // _PY_NSMALLPOSINTS
 #include "pycore_pystate.h"   // _Py_IsMainInterpreter()
 #include "longintrepr.h"

@@ -16,7 +16,7 @@
 
 /* SHA objects */
 
-#include "Python.h"
+#include "mython.h"
 #include "pycore_byteswap.h"      // _Py_bswap32()
 #include "structmember.h"         // PyMemberDef
 #include "hashlib.h"

@@ -1,7 +1,7 @@
 /* cryptmodule.c - by Steve Majewski
  */
 
-#include "Python.h"
+#include "mython.h"
 
 #include <sys/types.h>
 

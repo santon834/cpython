@@ -1,7 +1,7 @@
 
 /* Error handling */
 
-#include "Python.h"
+#include "mython.h"
 #include "pycore_initconfig.h"
 #include "pycore_pyerrors.h"
 #include "pycore_pystate.h"    // _PyThreadState_GET()

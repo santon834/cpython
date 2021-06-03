@@ -5,7 +5,7 @@
 
 /* XXX To do: error recovery */
 
-#include "Python.h"
+#include "mython.h"
 #include "token.h"
 #include "grammar.h"
 #include "node.h"

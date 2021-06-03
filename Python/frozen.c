@@ -1,7 +1,7 @@
 
 /* Dummy frozen modules initializer */
 
-#include "Python.h"
+#include "mython.h"
 #include "importlib.h"
 #include "importlib_external.h"
 #include "importlib_zipimport.h"

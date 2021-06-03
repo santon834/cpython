@@ -15,7 +15,7 @@
  *
  */
 
-#include "Python.h"
+#include "mython.h"
 #include "pystrhex.h"
 #include "../hashlib.h"
 

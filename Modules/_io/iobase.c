@@ -9,7 +9,7 @@
 
 
 #define PY_SSIZE_T_CLEAN
-#include "Python.h"
+#include "mython.h"
 #include "pycore_object.h"
 #include <stddef.h>               // offsetof()
 #include "_iomodule.h"

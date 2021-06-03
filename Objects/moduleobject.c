@@ -1,7 +1,7 @@
 
 /* Module object implementation */
 
-#include "Python.h"
+#include "mython.h"
 #include "pycore_interp.h"        // PyInterpreterState.importlib
 #include "pycore_pystate.h"       // _PyInterpreterState_GET()
 #include "structmember.h"         // PyMemberDef

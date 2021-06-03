@@ -1,4 +1,4 @@
-#include "Python.h"
+#include "mython.h"
 
 /* Our own locale-independent ctype.h-like macros */
 

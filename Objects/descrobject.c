@@ -1,6 +1,6 @@
 /* Descriptors -- a new, flexible way to describe attributes */
 
-#include "Python.h"
+#include "mython.h"
 #include "pycore_ceval.h"        // _Py_EnterRecursiveCall()
 #include "pycore_object.h"
 #include "pycore_pystate.h"      // _PyThreadState_GET()

@@ -1,7 +1,7 @@
 
 /* Traceback implementation */
 
-#include "Python.h"
+#include "mython.h"
 
 #include "code.h"
 #include "frameobject.h"          // PyFrame_GetBack()

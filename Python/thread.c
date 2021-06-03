@@ -5,7 +5,7 @@
    which is included by this file dependent on config settings.
    Stuff shared by all thread_*.h files is collected here. */
 
-#include "Python.h"
+#include "mython.h"
 #include "pycore_pystate.h"   // _PyInterpreterState_GET()
 
 #ifndef _POSIX_THREADS

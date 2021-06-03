@@ -1,6 +1,6 @@
 /* Abstract Object Interface (many thanks to Jim Fulton) */
 
-#include "Python.h"
+#include "mython.h"
 #include "pycore_abstract.h"      // _PyIndex_Check()
 #include "pycore_ceval.h"         // _Py_EnterRecursiveCall()
 #include "pycore_pyerrors.h"

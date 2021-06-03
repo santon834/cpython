@@ -1,8 +1,9 @@
 /* Parse tree node implementation */
 
-#include "Python.h"
+#include "mython.h"
 #include "node.h"
 #include "errcode.h"
+
 
 node *
 PyNode_New(int type)

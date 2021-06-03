@@ -1,7 +1,7 @@
 
 /* Support for dynamic loading of extension modules */
 
-#include "Python.h"
+#include "mython.h"
 
 #ifdef HAVE_DIRECT_H
 #include <direct.h>

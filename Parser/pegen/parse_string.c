@@ -1,6 +1,6 @@
 #include <stdbool.h>
 
-#include <Python.h>
+#include <mython.h>
 
 #include "../tokenizer.h"
 #include "pegen.h"

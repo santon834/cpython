@@ -44,7 +44,7 @@
    ----------------------------------
 */
 
-#include "Python.h"
+#include "mython.h"
 #include "pycore_hashtable.h"
 
 #define HASHTABLE_MIN_SIZE 16

@@ -1,6 +1,6 @@
 /* bytes to hex implementation */
 
-#include "Python.h"
+#include "mython.h"
 
 #include "pystrhex.h"
 

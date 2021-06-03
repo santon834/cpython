@@ -11,7 +11,7 @@
 
 #define PY_SSIZE_T_CLEAN
 
-#include "Python.h"
+#include "mython.h"
 #include "pycore_byteswap.h"     // _Py_bswap32()
 #include "pycore_initconfig.h"   // _Py_GetConfigsAsDict()
 #include "pycore_hashtable.h"    // _Py_hashtable_new()

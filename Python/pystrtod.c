@@ -1,6 +1,6 @@
 /* -*- Mode: C; c-file-style: "python" -*- */
 
-#include <Python.h>
+#include <mython.h>
 #include "pycore_dtoa.h"
 #include <locale.h>
 
