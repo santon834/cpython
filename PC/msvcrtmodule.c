@@ -16,7 +16,7 @@
 
 ***********************************************************/
 
-#include "Python.h"
+#include "mython.h"
 #include "malloc.h"
 #include <io.h>
 #include <conio.h>

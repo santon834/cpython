@@ -166,7 +166,7 @@ typedef int Py_ssize_clean_t;
  * Py_LOCAL_INLINE does the same thing, and also explicitly requests inlining,
  * for platforms that support that.
  *
- * If PY_LOCAL_AGGRESSIVE is defined before python.h is included, more
+ * If PY_LOCAL_AGGRESSIVE is defined before mython.h is included, more
  * "aggressive" inlining/optimization is enabled for the entire module.  This
  * may lead to code bloat, and may slow things down for those reasons.  It may
  * also lead to errors, if the code relies on pointer aliasing.  Use with

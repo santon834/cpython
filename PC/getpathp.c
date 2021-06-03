@@ -79,7 +79,7 @@
    ---------------------------------------------------------------- */
 
 
-#include "Python.h"
+#include "mython.h"
 #include "pycore_initconfig.h"    // PyStatus
 #include "pycore_pathconfig.h"    // _PyPathConfig
 #include "osdefs.h"               // SEP, ALTSEP

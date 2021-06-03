@@ -2,7 +2,7 @@
 /* Testing module for multi-phase initialization of extension modules (PEP 489)
  */
 
-#include "Python.h"
+#include "mython.h"
 
 #ifdef MS_WINDOWS
 
