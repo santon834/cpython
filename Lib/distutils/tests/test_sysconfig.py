@@ -55,7 +55,7 @@ class SysconfigTestCase(support.EnvironGuard, unittest.TestCase):
         if sysconfig.python_build:
             # The python executable has not been installed so srcdir
             # should be a full source checkout.
-            Python_h = os.path.join(srcdir, 'Include', 'mython.h')
+            Python_h = os.path.join(srcdir, 'Include', 'Python.h')
             self.assertTrue(os.path.exists(Python_h), Python_h)
             self.assertTrue(sysconfig._is_python_source_dir(srcdir))
         elif os.name == 'posix':
