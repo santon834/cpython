@@ -1,5 +1,5 @@
 
-#include "Python.h"
+#include "mython.h"
 
 #ifndef PLATFORM
 #define PLATFORM "unknown"

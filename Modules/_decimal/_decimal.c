@@ -26,7 +26,7 @@
  */
 
 
-#include <Python.h>
+#include <mython.h>
 #include "longintrepr.h"
 #include "complexobject.h"
 #include "mpdecimal.h"

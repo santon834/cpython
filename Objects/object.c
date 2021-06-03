@@ -1,7 +1,7 @@
 
 /* Generic object operations; and implementation of None */
 
-#include "Python.h"
+#include "mython.h"
 #include "pycore_ceval.h"         // _Py_EnterRecursiveCall()
 #include "pycore_context.h"
 #include "pycore_initconfig.h"

@@ -3,7 +3,7 @@
 
 /* XXX Signals should be recorded per thread, now we have thread state. */
 
-#include "Python.h"
+#include "mython.h"
 #include "pycore_atomic.h"
 #include "pycore_call.h"
 #include "pycore_ceval.h"
@@ -1907,7 +1907,7 @@ void *_PyOS_SigintEvent(void)
     /* Returns a manual-reset event which gets tripped whenever
        SIGINT is received.
 
-       Python.h does not include windows.h so we do cannot use HANDLE
+       mython.h does not include windows.h so we do cannot use HANDLE
        as the return type of this function.  We use void* instead. */
     return sigint_event;
 }

@@ -1,7 +1,7 @@
 
 /* Support for dynamic loading of extension modules */
 
-#include "Python.h"
+#include "mython.h"
 #include "importdl.h"
 
 #include <errno.h>      /*  for global errno      */

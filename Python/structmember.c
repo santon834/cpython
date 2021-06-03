@@ -1,7 +1,7 @@
 
 /* Map C struct members to Python object attributes */
 
-#include "Python.h"
+#include "mython.h"
 #include "structmember.h"         // PyMemberDef
 
 PyObject *

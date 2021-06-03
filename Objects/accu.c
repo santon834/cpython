@@ -1,6 +1,6 @@
 /* Accumulator struct implementation */
 
-#include "Python.h"
+#include "mython.h"
 #include "pycore_accu.h"
 
 static PyObject *

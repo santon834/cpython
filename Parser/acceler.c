@@ -10,7 +10,7 @@
    are not part of the static data structure written on graminit.[ch]
    by the parser generator. */
 
-#include "Python.h"
+#include "mython.h"
 #include "grammar.h"
 #include "node.h"
 #include "token.h"

@@ -2,7 +2,7 @@
 /* interpreters module */
 /* low-level access to interpreter primitives */
 
-#include "Python.h"
+#include "mython.h"
 #include "frameobject.h"
 #include "interpreteridobject.h"
 

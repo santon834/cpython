@@ -1,6 +1,6 @@
 /* Built-in functions */
 
-#include "Python.h"
+#include "mython.h"
 #include <ctype.h>
 #include "ast.h"
 #undef Yield   /* undefine macro conflicting with <winbase.h> */

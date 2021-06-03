@@ -1,7 +1,7 @@
 
 /* Support for dynamic loading of extension modules */
 
-#include "Python.h"
+#include "mython.h"
 
 /* ./configure sets HAVE_DYNAMIC_LOADING if dynamic loading of modules is
    supported on this platform. configure will then compile and link in one

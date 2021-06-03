@@ -8,7 +8,7 @@
  * any warranty. http://creativecommons.org/publicdomain/zero/1.0/
  */
 
-#include "Python.h"
+#include "mython.h"
 
 #include "impl/blake2.h"
 

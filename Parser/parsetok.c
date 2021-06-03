@@ -1,7 +1,7 @@
 
 /* Parser-tokenizer link implementation */
 
-#include "Python.h"
+#include "mython.h"
 #include "tokenizer.h"
 #include "node.h"
 #include "grammar.h"

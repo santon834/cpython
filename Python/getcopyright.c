@@ -1,6 +1,6 @@
 /* Return the copyright string.  This is updated manually. */
 
-#include "Python.h"
+#include "mython.h"
 
 static const char cprt[] =
 "\

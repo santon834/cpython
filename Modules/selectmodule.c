@@ -8,7 +8,7 @@
 #define _GNU_SOURCE
 #endif
 
-#include "Python.h"
+#include "mython.h"
 #include "structmember.h"         // PyMemberDef
 
 #ifdef HAVE_SYS_DEVPOLL_H

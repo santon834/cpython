@@ -1,6 +1,6 @@
 #include <float.h>   /* DBL_MAX_10_EXP */
 #include <stdbool.h>
-#include "Python.h"
+#include "mython.h"
 #include "Python-ast.h"
 
 static PyObject *_str_open_br;

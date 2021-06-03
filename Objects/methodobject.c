@@ -1,7 +1,7 @@
 
 /* Method object implementation */
 
-#include "Python.h"
+#include "mython.h"
 #include "pycore_ceval.h"         // _Py_EnterRecursiveCall()
 #include "pycore_object.h"
 #include "pycore_pyerrors.h"

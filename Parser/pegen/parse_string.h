@@ -1,7 +1,7 @@
 #ifndef STRINGS_H
 #define STRINGS_H
 
-#include <Python.h>
+#include <mython.h>
 #include <Python-ast.h>
 #include "pegen.h"
 

@@ -31,7 +31,7 @@
    the found and not-found case.
 */
 
-#include "Python.h"
+#include "mython.h"
 #include "pycore_object.h"        // _PyObject_GC_UNTRACK()
 #include <stddef.h>               // offsetof()
 

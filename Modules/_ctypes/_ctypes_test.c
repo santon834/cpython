@@ -1,4 +1,4 @@
-#include <Python.h>
+#include <mython.h>
 
 #ifdef MS_WIN32
 #include <windows.h>

@@ -6,7 +6,7 @@
  +   Copyright 2007 Python Software Foundation.
  */
 
-#include "Python.h"
+#include "mython.h"
 
 /* Forward declaration (for atexit_cleanup) */
 static PyObject *atexit_clear(PyObject*, PyObject*);

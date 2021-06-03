@@ -102,7 +102,7 @@ static const char PyCursesVersion[] = "2.2";
 
 #define PY_SSIZE_T_CLEAN
 
-#include "Python.h"
+#include "mython.h"
 
 
 #ifdef __hpux

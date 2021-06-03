@@ -23,7 +23,7 @@
 
 #define PY_SSIZE_T_CLEAN
 
-#include "Python.h"
+#include "mython.h"
 
 /* Redefined below for Windows debug builds after important #includes */
 #define _PySSL_FIX_ERRNO

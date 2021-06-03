@@ -31,7 +31,7 @@ class CygwinCCompilerTestCase(support.TempdirManager,
     def setUp(self):
         super(CygwinCCompilerTestCase, self).setUp()
         self.version = sys.version
-        self.python_h = os.path.join(self.mkdtemp(), 'python.h')
+        self.python_h = os.path.join(self.mkdtemp(), 'mython.h')
         from distutils import sysconfig
         self.old_get_config_h_filename = sysconfig.get_config_h_filename
         sysconfig.get_config_h_filename = self._get_config_h_filename

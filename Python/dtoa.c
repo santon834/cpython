@@ -117,7 +117,7 @@
 
 /* Linking of Python's #defines to Gay's #defines starts here. */
 
-#include "Python.h"
+#include "mython.h"
 #include "pycore_dtoa.h"
 
 /* if PY_NO_SHORT_FLOAT_REPR is defined, then don't even try to compile

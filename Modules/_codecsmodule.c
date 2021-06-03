@@ -31,7 +31,7 @@ Copyright (c) Corporation for National Research Initiatives.
    ------------------------------------------------------------------------ */
 
 #define PY_SSIZE_T_CLEAN
-#include "Python.h"
+#include "mython.h"
 
 #ifdef MS_WINDOWS
 #include <windows.h>

@@ -1,7 +1,7 @@
 
 /* Python interpreter main program for frozen scripts */
 
-#include "Python.h"
+#include "mython.h"
 #include "pycore_runtime.h"  // _PyRuntime_Initialize()
 #include <locale.h>
 

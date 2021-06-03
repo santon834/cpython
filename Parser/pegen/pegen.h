@@ -2,7 +2,7 @@
 #define PEGEN_H
 
 #define PY_SSIZE_T_CLEAN
-#include <Python.h>
+#include <mython.h>
 #include <token.h>
 #include <Python-ast.h>
 #include <pyarena.h>

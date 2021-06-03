@@ -1,6 +1,6 @@
 /* enumerate object */
 
-#include "Python.h"
+#include "mython.h"
 #include "pycore_object.h"        // _PyObject_GC_TRACK()
 
 #include "clinic/enumobject.c.h"

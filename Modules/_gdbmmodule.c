@@ -4,7 +4,7 @@
 /* Doc strings: Mitch Chapman */
 
 #define PY_SSIZE_T_CLEAN
-#include "Python.h"
+#include "mython.h"
 
 #include <sys/types.h>
 #include <sys/stat.h>

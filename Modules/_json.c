@@ -8,7 +8,7 @@
 #  error "Py_BUILD_CORE_BUILTIN or Py_BUILD_CORE_MODULE must be defined"
 #endif
 
-#include "Python.h"
+#include "mython.h"
 #include "structmember.h"         // PyMemberDef
 #include "pycore_accu.h"
 

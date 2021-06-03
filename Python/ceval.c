@@ -9,7 +9,7 @@
 /* enable more aggressive intra-module optimizations, where available */
 #define PY_LOCAL_AGGRESSIVE
 
-#include "Python.h"
+#include "mython.h"
 #include "pycore_abstract.h"      // _PyIndex_Check()
 #include "pycore_call.h"
 #include "pycore_ceval.h"

@@ -3,7 +3,7 @@
 
 #define PY_SSIZE_T_CLEAN
 
-#include "Python.h"
+#include "mython.h"
 
 #if defined(__CHAR_UNSIGNED__)
 #if defined(signed)

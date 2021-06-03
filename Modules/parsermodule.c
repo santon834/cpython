@@ -26,7 +26,7 @@
  *
  */
 
-#include "Python.h"                     /* general Python API             */
+#include "mython.h"                     /* general Python API             */
 #include "Python-ast.h"                 /* mod_ty */
 #undef Yield   /* undefine macro conflicting with <winbase.h> */
 #include "ast.h"

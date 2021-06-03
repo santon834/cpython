@@ -1,7 +1,7 @@
 /* File object implementation (what's left of it -- see io.py) */
 
 #define PY_SSIZE_T_CLEAN
-#include "Python.h"
+#include "mython.h"
 #include "pycore_runtime.h"  // _PyRuntime
 
 #if defined(HAVE_GETC_UNLOCKED) && !defined(_Py_MEMORY_SANITIZER)

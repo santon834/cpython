@@ -7,7 +7,7 @@
  * the capsule are defined below */
 #define _PY_DATETIME_IMPL
 
-#include "Python.h"
+#include "mython.h"
 #include "datetime.h"
 #include "structmember.h"         // PyMemberDef
 

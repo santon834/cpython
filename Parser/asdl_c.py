@@ -1449,7 +1449,7 @@ def write_header(f, mod):
 def write_source(f, mod):
     f.write('#include <stddef.h>\n')
     f.write('\n')
-    f.write('#include "Python.h"\n')
+    f.write('#include "mython.h"\n')
     f.write('#include "%s-ast.h"\n' % mod.name)
     f.write('#include "structmember.h"         // PyMemberDef\n')
     f.write('\n')

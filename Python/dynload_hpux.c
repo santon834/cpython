@@ -4,7 +4,7 @@
 #include "dl.h"
 #include <errno.h>
 
-#include "Python.h"
+#include "mython.h"
 #include "importdl.h"
 
 #if defined(__hp9000s300)

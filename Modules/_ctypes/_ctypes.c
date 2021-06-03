@@ -101,7 +101,7 @@ bytes(cdata)
 
 #define PY_SSIZE_T_CLEAN
 
-#include "Python.h"
+#include "mython.h"
 #include "structmember.h"         // PyMemberDef
 
 #include <ffi.h>

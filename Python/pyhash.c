@@ -3,7 +3,7 @@
 
    All the utility functions (_Py_Hash*()) return "-1" to signify an error.
 */
-#include "Python.h"
+#include "mython.h"
 
 #ifdef __APPLE__
 #  include <libkern/OSByteOrder.h>

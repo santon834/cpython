@@ -464,7 +464,7 @@ later:
 
 */
 
-#include "Python.h"
+#include "mython.h"
 #include "pycore_object.h"
 #include <stddef.h>               // offsetof()
 #include "dict-common.h"

@@ -1,6 +1,6 @@
 /* Module definition and import implementation */
 
-#include "Python.h"
+#include "mython.h"
 
 #include "Python-ast.h"
 #undef Yield   /* undefine macro conflicting with <winbase.h> */

@@ -1,7 +1,7 @@
 /* Cross platform case insensitive string compare functions
  */
 
-#include "Python.h"
+#include "mython.h"
 
 int
 PyOS_mystrnicmp(const char *s1, const char *s2, Py_ssize_t size)

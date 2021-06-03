@@ -4,7 +4,7 @@
    The item type is restricted to simple C types like int or float */
 
 #define PY_SSIZE_T_CLEAN
-#include "Python.h"
+#include "mython.h"
 #include <stddef.h>               // offsetof()
 
 #ifdef STDC_HEADERS

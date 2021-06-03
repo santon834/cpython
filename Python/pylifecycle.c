@@ -1,6 +1,6 @@
 /* Python interpreter top-level routines, including init/exit */
 
-#include "Python.h"
+#include "mython.h"
 
 #include "Python-ast.h"
 #undef Yield   /* undefine macro conflicting with <winbase.h> */

@@ -3,7 +3,7 @@
  * an abstract syntax tree (AST). The main function is PyAST_FromNode().
  *
  */
-#include "Python.h"
+#include "mython.h"
 #include "Python-ast.h"
 #include "node.h"
 #include "ast.h"

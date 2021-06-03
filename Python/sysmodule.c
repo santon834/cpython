@@ -14,7 +14,7 @@ Data members:
 - ps1, ps2: optional primary and secondary prompts (strings)
 */
 
-#include "Python.h"
+#include "mython.h"
 #include "code.h"
 #include "frameobject.h"          // PyFrame_GetBack()
 #include "pycore_ceval.h"         // _Py_RecursionLimitLowerWaterMark()

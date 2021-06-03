@@ -1,7 +1,7 @@
 
 /* Module support implementation */
 
-#include "Python.h"
+#include "mython.h"
 #include "pycore_abstract.h"   // _PyIndex_Check()
 
 #define FLAG_SIZE_T 1

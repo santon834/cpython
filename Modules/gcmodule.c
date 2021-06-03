@@ -23,7 +23,7 @@
 
 */
 
-#include "Python.h"
+#include "mython.h"
 #include "pycore_context.h"
 #include "pycore_initconfig.h"
 #include "pycore_interp.h"      // PyInterpreterState.gc

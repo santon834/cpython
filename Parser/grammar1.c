@@ -1,7 +1,7 @@
 
 /* Grammar subroutines needed by parser */
 
-#include "Python.h"
+#include "mython.h"
 #include "grammar.h"
 #include "token.h"
 

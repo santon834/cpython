@@ -2,7 +2,7 @@
 /* This module provides the necessary stubs for when dynamic loading is
    not present. */
 
-#include "Python.h"
+#include "mython.h"
 #include "importdl.h"
 
 

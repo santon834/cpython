@@ -1,7 +1,7 @@
 
 /* Thread and interpreter state structures and their interfaces */
 
-#include "Python.h"
+#include "mython.h"
 #include "pycore_ceval.h"
 #include "pycore_initconfig.h"
 #include "pycore_pyerrors.h"

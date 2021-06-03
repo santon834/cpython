@@ -1,6 +1,6 @@
 /* Iterator objects */
 
-#include "Python.h"
+#include "mython.h"
 #include "pycore_object.h"
 
 typedef struct {

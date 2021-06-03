@@ -1,6 +1,6 @@
 // types.GenericAlias -- used to represent e.g. list[int].
 
-#include "Python.h"
+#include "mython.h"
 #include "pycore_object.h"
 #include "structmember.h"         // PyMemberDef
 

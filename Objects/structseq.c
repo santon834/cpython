@@ -7,7 +7,7 @@
    words and add a link back to the term in Docs/glossary.rst).
 */
 
-#include "Python.h"
+#include "mython.h"
 #include "pycore_tupleobject.h"
 #include "pycore_object.h"
 #include "structmember.h"         // PyMemberDef
